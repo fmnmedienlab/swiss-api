@@ -9,6 +9,7 @@
   "dependencies": {
     "express": "latest",
     "cors": "latest",
-    "axios": "latest"
+    "axios": "latest",
+    "sweph-wasm": "latest"
   }
 }
